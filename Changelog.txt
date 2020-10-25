@@ -1,0 +1,4 @@
+12/20/2003 0.2
+o Checks for errors when opening files and displays an error message if it
+  cannot be opened.
+o Added better descriptions for the preferences.
